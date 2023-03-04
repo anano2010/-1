@@ -1,0 +1,157 @@
+.b1{
+position: absolute;
+width: 231px;
+height: 19px;
+left: 604px;
+top: 54px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.b2{
+    position: absolute;
+width: 494px;
+height: 19px;
+left: 38px;
+top: 276px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.b3{
+    position: absolute;
+    width: 494px;
+height: 19px;
+left: 37px;
+top: 551px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.b4{
+    position: absolute;
+    width: 494px;
+    height: 19px;
+    left: 37px;
+    top: 781px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+.b5{
+    position: absolute;
+    
+width: 494px;
+height: 19px;
+left: 37px;
+top: 1051px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.p1{
+    position: absolute;
+width: 1345px;
+height: 158px;
+left: 39px;
+top: 91px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.p2{
+    position: absolute;
+width: 1363px;
+height: 202px;
+left: 39px;
+top: 305px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.p3{
+    position: absolute;
+    width: 1349px;
+    height: 167px;
+    left: 38px;
+    top: 582px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+      
+}
+.p4{
+    position: absolute;
+width: 1327px;
+height: 212px;
+left: 38px;
+top: 812px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.p5{
+    position: absolute;
+    width: 1318px;
+    height: 212px;
+    left: 38px;
+    top: 1082px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+     
+}
